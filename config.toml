@@ -1,0 +1,4 @@
+baseURL = "http://diegonogueira12345.org/"
+languageCode = "en-us"
+title = "Diego Nogueira Site"
+theme = "ananke"
