@@ -1,4 +1,4 @@
-baseURL = "http://diegonogueira12345.org/"
+baseURL = "https://diegonogueira.netlify.com"
 languageCode = "en-us"
 title = "Diego Nogueira Site"
 theme = "ananke"
